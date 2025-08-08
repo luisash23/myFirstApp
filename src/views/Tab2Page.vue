@@ -16,7 +16,6 @@
     <img alt="" src="/megacoann.jpg" class="img-property" />
     <ion-card-header>
       <ion-card-title>Luis Saputra P.T</ion-card-title>
-      <ion-card-subtitle>XI PPLG 1</ion-card-subtitle>
     </ion-card-header>
 
     <ion-card-content>
